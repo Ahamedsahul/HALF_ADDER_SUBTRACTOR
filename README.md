@@ -34,6 +34,7 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
+
 ![Screenshot 2025-01-03 103833](https://github.com/user-attachments/assets/836e9d64-2c5d-4758-ab7b-3a05eaa797dd)
 
 **Procedure**
